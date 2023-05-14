@@ -10,6 +10,7 @@ public class sw2072 {
         int[] arr = new int[10];
         int sum = 0;
 
+
         for(int i = 0; i < testcase ; i++ ){
             for(int j = 0 ; j < 10 ; j++){
                 arr[j] = sc.nextInt();
