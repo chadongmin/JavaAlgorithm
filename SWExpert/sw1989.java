@@ -22,7 +22,6 @@ public class sw1989 {
                     cnt++;
                 }
             }
-
             if (cnt == Math.floor(str.length()/2)) System.out.println("#"+i+1+" "+1);
             else System.out.println("#"+i+1+" "+0);
             cnt=0;
