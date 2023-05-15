@@ -9,7 +9,6 @@ public class sw1206 {
     b-height기준으로 왼쪽 두칸, 오른쪽 두칸의 크기를 다 비교하여 그 중
     가장 큰 값을 max로 한다
     b_height와 max값의 크기를 비교하여 조망권 확보가 되었는지를 체크한다.
-
     */
     static int b_count;
     static int[] b_height ;
