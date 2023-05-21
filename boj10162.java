@@ -4,7 +4,6 @@ public class boj10162 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int [] btn  ={300, 60, 10};
-        int cnt = 0;
         int time = sc.nextInt();
         int [] result = new int [3];
 
