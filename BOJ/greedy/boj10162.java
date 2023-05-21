@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.greedy;
 
 import java.util.Scanner;
 

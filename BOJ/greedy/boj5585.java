@@ -1,4 +1,4 @@
-package BOJ;
+package BOJ.greedy;
 import java.util.*;
 /*
 * 아이디어: 거스름돈 배열을 리터럴로 선언하고
