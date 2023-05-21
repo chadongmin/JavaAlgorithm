@@ -9,7 +9,7 @@ public class boj4796 {
 
 
         while (true) {
-            cnt++;s
+            cnt++;
             int L = sc.nextInt();
             int P = sc.nextInt();
             int holiday = sc.nextInt();
