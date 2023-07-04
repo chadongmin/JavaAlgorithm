@@ -13,7 +13,6 @@ public class boj10816 {
         StringBuilder sb = new StringBuilder();
         int size= sc.nextInt();
         int[] arr = new int[size];
-        int ans = 0;
 
         for (int i = 0;i<size;i++){
             arr[i] = sc.nextInt();
