@@ -27,8 +27,8 @@ public class boj10816 {
             test[i] = sc.nextInt();
 
             int key = test[i];
-            //System.out.println(UpperBound(arr, key));
-            //System.out.println(LowerBound(arr, key));
+            System.out.println(UpperBound(arr, key));
+            System.out.println(LowerBound(arr, key));
             sb.append(UpperBound(arr, key)-LowerBound(arr, key)).append(" ");
 
         }
